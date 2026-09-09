@@ -1,0 +1,19 @@
+SHL BeatSync Pro 9.4.4 — SEO Final Update
+
+Added/updated:
+- SEO title and meta description
+- Canonical URL
+- Robots meta directives
+- Open Graph metadata
+- Twitter/X card metadata
+- SoftwareApplication structured data (JSON-LD)
+- Product offer: $14.99 USD
+- Windows 10/11 and feature metadata
+- sitemap.xml
+- robots.txt
+- Removed remaining public 'International purchases' wording
+- Removed 'International License' from WhatsApp prefilled purchase message
+
+Important:
+Keep the Google Search Console HTML verification file already present in your GitHub repository.
+Do not delete it when uploading these files.
