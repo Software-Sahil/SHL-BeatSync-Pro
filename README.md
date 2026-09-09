@@ -1,31 +1,35 @@
-# Software Sahil International Website
+# SHL BeatSync Pro 9.4.4 — Official Website
 
-GitHub Pages-ready landing page for SHL BeatSync Pro 9.4.4.
+Official product website for **SHL BeatSync Pro 9.4.4** by **Software Sahil**.
 
-## Upload free on GitHub Pages
-1. Create a new GitHub repository, e.g. `SHL-BeatSync-Pro`
-2. Upload `index.html`, `styles.css`, and `script.js`
-3. Open repository Settings > Pages
-4. Choose Deploy from a branch
-5. Select `main` and `/(root)`
-6. Save
+## SHL BeatSync Pro
 
-## Before public launch
-- Replace the demo placeholder with your real YouTube embed.
-- Confirm the public launch price.
-- Keep compatibility wording conservative unless a specific editor/version has been tested.
-- Add Privacy Policy and Terms before scaling paid advertising.
+Professional automatic beat detection software designed to help video editors detect music beats, create accurate markers, and speed up music-driven editing workflows.
 
-## Contact configured
-WhatsApp: +91 9658209096
+### Key Features
+
+- Automatic Music Beat Detection
+- Fast & Accurate Beat Markers
+- Strong Beat Detection
+- Detection Mode & Sensitivity Controls
+- Audio & Video Support
+- Waveform + Playback Preview
+- Batch Media Queue
+- EDIUS Marker Export Workflow
+- Adobe Premiere Pro XML Export
+- Adjustable Timing Offset
+- Secure PC Activation
+- Offline Core Operation
+
+## Product Demo
+
+Watch the official 60-second SHL BeatSync Pro 9.4.4 product demo on the website.
+
+## Contact
+
+**Software Sahil**
+
+WhatsApp: +91 9658209096  
 Email: softwaresahil@gmail.com
 
-## Audience note
-The website does not visibly display target-country names. Country targeting should be handled through advertising campaign settings, not on-page labels.
-
-
-## YouTube Demo
-The 60-second SHL BeatSync Pro 9.4.4 English demo is embedded using the official YouTube iframe:
-Video ID: N4qTm93H6nA
-
-For reliable testing, publish through GitHub Pages/HTTPS rather than opening index.html directly as a local file.
+© Software Sahil
