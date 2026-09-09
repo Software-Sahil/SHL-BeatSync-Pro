@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://software-sahil.github.io/SHL-BeatSync-Pro/sitemap.xml
