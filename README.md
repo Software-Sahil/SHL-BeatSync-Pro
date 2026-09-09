@@ -2,11 +2,11 @@
 
 Official product website for **SHL BeatSync Pro 9.4.4** by **Software Sahil**.
 
-## SHL BeatSync Pro
+## About
 
-Professional automatic beat detection software designed to help video editors detect music beats, create accurate markers, and speed up music-driven editing workflows.
+SHL BeatSync Pro is a professional automatic beat detection tool for video editors. It helps detect music beats, review waveform markers, and prepare marker exports for supported editing workflows.
 
-### Key Features
+## Key Features
 
 - Automatic Music Beat Detection
 - Fast & Accurate Beat Markers
@@ -20,10 +20,11 @@ Professional automatic beat detection software designed to help video editors de
 - Adjustable Timing Offset
 - Secure PC Activation
 - Offline Core Operation
+- One-Time Purchase
 
 ## Product Demo
 
-Watch the official 60-second SHL BeatSync Pro 9.4.4 product demo on the website.
+The official 60-second product demo is embedded on the website.
 
 ## Contact
 
